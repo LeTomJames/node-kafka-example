@@ -20,12 +20,12 @@ To run the Producer,
 node index.js
 ```
 
-To run the Consumer,
+To run the Consumer, open another terminal window and run,
 ```
 node consumer.js
 ```
 
-To run another Consumer,
+To run the other Consumer, open another terminal window and run,
 ```
-node consumer2.js
+node another_consumer.js
 ```
